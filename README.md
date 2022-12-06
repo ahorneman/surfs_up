@@ -1,9 +1,9 @@
 # surfs_up
-##Ojective:
+## Ojective:
 
 Analyize temperatures trends in order to help determine if opening a surf and ice cream shop in a particular location will be successful. June and December were looked at in depth over a number of years.
 
-##Results:
+## Results:
 ### June Analysis:
 
 June min temperatures are 64 and max 85.
